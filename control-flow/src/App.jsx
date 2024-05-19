@@ -1,4 +1,4 @@
-import Assignment from './components/pages/Assignment';
+import Assignment from "./components/pages/Assignment";
 
 function App() {
   return (
